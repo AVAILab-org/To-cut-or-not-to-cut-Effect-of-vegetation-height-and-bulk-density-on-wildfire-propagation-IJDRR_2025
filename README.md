@@ -1,0 +1,1 @@
+# To-cut-or-not-to-cut-Effect-of-vegetation-height-and-bulk-density-on-wildfire-propagation
