@@ -1,4 +1,4 @@
-# To-cut-or-not-to-cut_Effect-of-vegetation-height-&-bulk-density-on-wildfire-propagation-IJDRR_2025
+# To-cut-or-not-to-cut.-Effect-of-vegetation-height-and-bulk-density-on-wildfire-propagation-IJDRR_2025
 data and FDS input files for the paper To cut or not to cut: Effect of vegetation height and bulk density on wildfire propagation under varied wind and slope conditions
 puhblished in the International Journal of Disaster Risk Reduction. 
 link to the paper:
